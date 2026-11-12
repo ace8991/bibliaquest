@@ -76,3 +76,11 @@ Hairline refinement, finer shorter beard strands, matte skin tuning and nearby-p
 - [x] Editor preview rebaked (14 skeletons); real frames and performance measurements recorded in docs/CHARACTER_REPORT.md.
 
 Pending for the population: more activities (sitting, carrying, working), smarter walking paths, more than eight faces, frame-rate work for the widest camp view on the Low preset (about 50 fps measured), tests on Medium/High and on the Intel GPU.
+
+## HUD pass completed
+
+- [x] Rotating mini-map with terrain, paths, tents, player arrow, mission soldiers, residents, objective marker and north mark.
+- [x] Mission tracker panel with XP bar, interaction prompt pill, new-objective banner; four languages.
+- [x] Seven HUD checks added; 109 headless and 110 graphical checks pass.
+
+Pending for the HUD: full-screen map and legend, settings to resize or hide the mini-map, gamepad prompts, other aspect ratios, playtest feedback.

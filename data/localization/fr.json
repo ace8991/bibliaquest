@@ -45,6 +45,7 @@
   "fullscreen": "Plein écran",
   "audio_note": "Commandes audio prêtes ; aucun enregistrement pour le moment.",
   "language": "Langue / Language",
+  "new_objective": "NOUVEL OBJECTIF",
   "controls": "WASD  Marcher   MAJ  Courir   ESPACE  Sauter   SOURIS  Caméra   E  Parler   ÉCHAP  Pause",
   "knowledge": "Connaissances bibliques  %d / 2  •  %d XP",
   "talk": "[E] Parler à %s",

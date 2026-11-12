@@ -118,6 +118,7 @@ func _ready() -> void:
 	check(game.world.sun.shadow_enabled, "Low preset includes contact shadows")
 	await check_characters()
 	await check_population()
+	await check_hud()
 	var interact := InputEventAction.new()
 	interact.action = "interact"
 	interact.pressed = true
@@ -263,6 +264,25 @@ func _ready() -> void:
 	else: DirAccess.remove_absolute(Store.active_path())
 	print("INTEGRATION RESULT: %d failures" % failures)
 	get_tree().quit(1 if failures > 0 else 0)
+
+func check_hud() -> void:
+	## Mission tracker and mini-map: present in play, hidden in menus, positions make sense.
+	var map = game.ui.minimap
+	var centre := Vector2(map.RADIUS, map.RADIUS)
+	check(map.is_visible_in_tree() and game.ui.mission_panel.is_visible_in_tree(), "Mini-map and mission tracker are shown during play")
+	check(map.to_map(game.player.position).distance_to(centre) < 0.01, "Mini-map keeps the player in its centre")
+	var soldier_point: Vector2 = map.to_map(game.world.soldier.position)
+	check(soldier_point.distance_to(centre) < map.RADIUS and soldier_point.y < centre.y, "Objective ahead of the camera is drawn above the player on the mini-map")
+	game.player.yaw = PI
+	check(map.to_map(game.world.soldier.position).y > centre.y, "Mini-map rotates with the camera")
+	game.player.yaw = 0.0
+	check(game.ui.mission_title.text == I18n.text("m1") and game.ui.hud.text.contains(Progress.objective()) and game.ui.xp_bar.max_value == 60, "Mission tracker shows mission, objective and the 60 XP total")
+	check(game.ui.prompt_panel.visible and not game.ui.prompt.text.is_empty() and map.target_text.contains(I18n.text("soldier_intro")), "Interaction prompt and objective distance are displayed")
+	game.show_pause()
+	await frames(2)
+	check(not map.is_visible_in_tree() and not game.ui.mission_panel.is_visible_in_tree() and not game.ui.prompt_panel.visible, "HUD is hidden behind menus")
+	game.resume()
+	await frames(2)
 
 func check_population() -> void:
 	var population: Node = game.world.get_node("CampPopulation")

@@ -8,6 +8,7 @@ var soldier: Node3D
 var interactables: Array[Node3D] = []
 var sun: DirectionalLight3D
 var foliage: MultiMeshInstance3D
+var tent_sites: Array[Vector2] = []  # read by the mini-map
 
 func ground_height(x: float, z: float) -> float:
 	return Terrain.height(x,z)
@@ -51,9 +52,12 @@ func _ready() -> void:
 	var cloth := Geo.material(Color("a18b66"))
 	for location: Vector2 in [Vector2(-10,3),Vector2(-19,3),Vector2(10,3),Vector2(-24,-10),Vector2(10,-24)]:
 		Geo.tent(self, ground(location.x,location.y), cloth)
+		tent_sites.append(location)
 	Geo.tent(self, ground(-16,-10), Geo.material(Color("526b75")))
+	tent_sites.append(Vector2(-16,-10))
 	for x: float in [29.0,36.0,41.0]:
 		Geo.tent(self, ground(x,-33), Geo.material(Color("796451")))
+		tent_sites.append(Vector2(x,-33))
 	for location: Vector2 in [Vector2(-5,3),Vector2(5,3),Vector2(-22,-10),Vector2(-18,-5)]:
 		Geo.crate(self, ground(location.x,location.y))
 		Scans.instance(self,"ceramic_pot",ground(location.x+0.9,location.y),0.40)

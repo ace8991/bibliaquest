@@ -45,6 +45,7 @@
   "fullscreen": "Fullscreen",
   "audio_note": "Audio controls ready; no recorded audio yet.",
   "language": "Language",
+  "new_objective": "NEW OBJECTIVE",
   "controls": "WASD  Move   SHIFT  Run   SPACE  Jump   MOUSE  Camera   E  Talk   ESC  Pause",
   "knowledge": "Bible knowledge  %d / 2  •  %d XP",
   "talk": "[E] Talk to %s",

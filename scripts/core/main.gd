@@ -35,6 +35,7 @@ func _ready() -> void:
 	player.collision_mask = 5
 	ui = preload("res://scripts/ui/interface.gd").new()
 	add_child(ui)
+	ui.minimap.setup(world, player)
 	for npc: Node3D in world.interactables: npc.activated.connect(start_dialogue)
 	Progress.changed.connect(ui.update_hud)
 	Progress.changed.connect(on_progress_changed)

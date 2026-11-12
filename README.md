@@ -91,3 +91,7 @@ Hairline refinement, finer shorter beard strands, matte skin tuning and nearby-p
 ## Camp population pass
 
 The camp is no longer empty apart from the three mission soldiers: ten ambient residents stand guard at the entrance, talk in pairs by the supplies, the tents and the fire, or walk between the tents. They use eight additional models (porter, cook, elder, spearman, sentry, youth, herdsman, armorer) so no face is shared with the player or the mission soldiers. They cannot be talked to, carry no nameplate and are not saved; the three mission soldiers stay easy to spot by their banners and nameplates. Placement is data-driven in `data/camp_population.json` (`model`, `color`, `at`, `faces`, `activity`, `armed`, `route`, `speed`, `scale`). Latest results: 102 headless and 103 graphical passing checks, zero failures. The widest camp view measured about 50 fps on the Low preset on the Radeon 550X; see docs/CHARACTER_REPORT.md.
+
+## HUD pass
+
+Play now shows a mission tracker in the top-left corner (mission title, current objective, XP bar) and a rotating mini-map in the top-right corner with the paths, tents, people and a gold diamond for the current objective, plus the distance to it. An action prompt appears only when someone can be spoken to, and a short banner announces each new objective. Latest results: 109 headless and 110 graphical passing checks, zero failures.
