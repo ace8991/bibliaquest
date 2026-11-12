@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 23.10.18.23.240422 - Compatibility - Using Device: ATI Technologies Inc. - AMD Radeon 550X
+
+PERF line-up view, three soldiers visible: 109.9 fps average (9.10 ms/frame), 450 draw calls, 300487 primitives, 108 MB video memory, quality preset 0, 1280x720, AMD Radeon 550X
+PERF same view, characters hidden: 152.7 fps average (6.55 ms/frame), 348 draw calls, 202159 primitives, 108 MB video memory, quality preset 0, 1280x720, AMD Radeon 550X
+ART REVIEW: captured live camp, detail and character views

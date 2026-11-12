@@ -1,0 +1,53 @@
+{
+  "soldier_intro": {
+    "speaker_key": "soldier_intro",
+    "fictional": true,
+    "lines": [
+      "Bienvenido al campamento. Los ejércitos de Israel y de los filisteos están frente a frente en el valle de Elá.",
+      "Goliat desafía al ejército de Israel. Tú eres un testigo; David será quien lo enfrente.",
+      "Un detalle del relato: David escogió cinco piedras lisas del arroyo. Veamos qué recuerdas."
+    ]
+  },
+  "watchman": {
+    "speaker_key": "watchman",
+    "fictional": true,
+    "lines": [
+      "Mira al otro lado del cauce. Allí está el campamento filisteo; nosotros estamos del lado de Israel.",
+      "Según 1 Samuel 17:8–11, Goliat exige que Israel elija a un hombre para luchar contra él. Saúl y los soldados sienten mucho miedo.",
+      "No te pediré que luches. Ve a la tienda azul; el veterano puede contarte más."
+    ]
+  },
+  "veteran": {
+    "speaker_key": "veteran",
+    "fictional": true,
+    "lines": [
+      "No fue un solo desafío. Según 1 Samuel 17:16, el filisteo se presentó durante cuarenta días, por la mañana y por la tarde.",
+      "Eso ayuda a comprender el miedo en el campamento. Pero el relato continúa; David tendrá un papel esencial.",
+      "Eres testigo de esta historia. Repasemos lo que aprendiste sobre la duración del desafío."
+    ]
+  },
+  "locked": {
+    "fictional": true,
+    "lines": [
+      "Habla primero con el soldado del estandarte azul."
+    ]
+  },
+  "visit_watchman": {
+    "fictional": true,
+    "lines": [
+      "El centinela del estandarte rojo te espera."
+    ]
+  },
+  "visit_veteran": {
+    "fictional": true,
+    "lines": [
+      "Visita al veterano junto a la tienda azul."
+    ]
+  },
+  "after": {
+    "fictional": true,
+    "lines": [
+      "Completaste las dos primeras misiones. El encuentro con David llegará en una etapa posterior."
+    ]
+  }
+}

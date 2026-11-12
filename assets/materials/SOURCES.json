@@ -1,0 +1,104 @@
+[
+  {
+    "asset": "brown_mud_dry",
+    "author": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/brown_mud_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_diff_1k.jpg",
+    "file": "assets/materials/brown_mud_dry/brown_mud_dry_diff_1k.jpg",
+    "sha256": "a56281b644de614787340f3db45e28d2f72ec32fc19a442f99002bae0ab11398"
+  },
+  {
+    "asset": "brown_mud_dry",
+    "author": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/brown_mud_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_nor_gl_1k.jpg",
+    "file": "assets/materials/brown_mud_dry/brown_mud_dry_nor_gl_1k.jpg",
+    "sha256": "4dd82ecb3e810d4de49d34c7d6cc30152129434a58b3bd786bc9952bc8874877"
+  },
+  {
+    "asset": "brown_mud_dry",
+    "author": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/brown_mud_dry",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_dry/brown_mud_dry_rough_1k.jpg",
+    "file": "assets/materials/brown_mud_dry/brown_mud_dry_rough_1k.jpg",
+    "sha256": "31fb99629f533924b1150a7dac8d9432de85450bb45cda5033e3eb723f8dda04"
+  },
+  {
+    "asset": "rocky_terrain_02",
+    "author": {
+      "Amal Kumar": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rocky_terrain_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_diff_1k.jpg",
+    "file": "assets/materials/rocky_terrain_02/rocky_terrain_02_diff_1k.jpg",
+    "sha256": "d570c10b1d5302f4fde9e0e94f4cbab0d5e112fc3fe2b3b91c38a98bd3ddaf4b"
+  },
+  {
+    "asset": "rocky_terrain_02",
+    "author": {
+      "Amal Kumar": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rocky_terrain_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_nor_gl_1k.jpg",
+    "file": "assets/materials/rocky_terrain_02/rocky_terrain_02_nor_gl_1k.jpg",
+    "sha256": "f4f9d9671c660f4e509e96d5da3091887dfd557e1353e313fa2d1dc789499ffd"
+  },
+  {
+    "asset": "rocky_terrain_02",
+    "author": {
+      "Amal Kumar": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/rocky_terrain_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_terrain_02/rocky_terrain_02_rough_1k.jpg",
+    "file": "assets/materials/rocky_terrain_02/rocky_terrain_02_rough_1k.jpg",
+    "sha256": "8652ee05de206888eb77f84df7c8080f6ffef27afadb7917127726570b66c45d"
+  },
+  {
+    "asset": "weathered_planks",
+    "author": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/weathered_planks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_diff_1k.jpg",
+    "file": "assets/materials/weathered_planks/weathered_planks_diff_1k.jpg",
+    "sha256": "01c9a372cfd7a7bf471b59c2458ed3ccecc93448aebf7ba0cc5b3b5b6ed24349"
+  },
+  {
+    "asset": "weathered_planks",
+    "author": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/weathered_planks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_nor_gl_1k.jpg",
+    "file": "assets/materials/weathered_planks/weathered_planks_nor_gl_1k.jpg",
+    "sha256": "381d298f3194ec4961b04b4912b9b6efea4b2ff7b914dac57e24c8b6b0be6a25"
+  },
+  {
+    "asset": "weathered_planks",
+    "author": {
+      "Dario Barresi": "Processing",
+      "Dimitrios Savva": "Photography"
+    },
+    "license": "CC0-1.0",
+    "source": "https://polyhaven.com/a/weathered_planks",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_rough_1k.jpg",
+    "file": "assets/materials/weathered_planks/weathered_planks_rough_1k.jpg",
+    "sha256": "a017728183597417a350d1846a5a46db9702ee6d472a21c5da2f23015d606aa3"
+  }
+]

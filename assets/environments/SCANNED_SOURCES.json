@@ -1,0 +1,256 @@
+[
+  {
+    "asset": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "author": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/namaqualand_boulder_02/namaqualand_boulder_02_1k.gltf",
+    "file": "assets/environments/scanned/namaqualand_boulder_02/namaqualand_boulder_02.gltf",
+    "sha256": "3c41b5946cd5b208673ec481a3969047665688b2fab1de99b57a7b4eedde099b"
+  },
+  {
+    "asset": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "author": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/namaqualand_boulder_02/namaqualand_boulder_02.bin",
+    "file": "assets/environments/scanned/namaqualand_boulder_02/namaqualand_boulder_02.bin",
+    "sha256": "0f6daa7ec9b1a92207c0b09b737ff1eec904aebc1c1eada778afa6e5eacd55c0"
+  },
+  {
+    "asset": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "author": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/namaqualand_boulder_02/namaqualand_boulder_02_nor_gl_1k.jpg",
+    "file": "assets/environments/scanned/namaqualand_boulder_02/textures/namaqualand_boulder_02_nor_gl_1k.jpg",
+    "sha256": "2407a9915ea0cf42b164d42f548618145da892b948327fff67bef6123790a5d7"
+  },
+  {
+    "asset": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "author": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/namaqualand_boulder_02/namaqualand_boulder_02_arm_1k.jpg",
+    "file": "assets/environments/scanned/namaqualand_boulder_02/textures/namaqualand_boulder_02_arm_1k.jpg",
+    "sha256": "e67643f5de3e2bfdd07fae1137eff0b9d86745a8c60ccac7e64b62e85ae9cee0"
+  },
+  {
+    "asset": "namaqualand_boulder_02",
+    "source": "https://polyhaven.com/a/namaqualand_boulder_02",
+    "author": {
+      "Greg Zaal": "Photography",
+      "Rico Cilliers": "modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/namaqualand_boulder_02/namaqualand_boulder_02_diff_1k.jpg",
+    "file": "assets/environments/scanned/namaqualand_boulder_02/textures/namaqualand_boulder_02_diff_1k.jpg",
+    "sha256": "e567620fa04906e023e3d3b49860dd32db39b368d72ecfc10ad005945fd4034d"
+  },
+  {
+    "asset": "shrub_02",
+    "source": "https://polyhaven.com/a/shrub_02",
+    "author": {
+      "Rico Cilliers": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/shrub_02/shrub_02_1k.gltf",
+    "file": "assets/environments/scanned/shrub_02/shrub_02.gltf",
+    "sha256": "99de0a70fe88ad414615cc8d8e020617c8512e2abfe08b911b153a6fcc40d93e"
+  },
+  {
+    "asset": "shrub_02",
+    "source": "https://polyhaven.com/a/shrub_02",
+    "author": {
+      "Rico Cilliers": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/shrub_02/shrub_02_arm_1k.jpg",
+    "file": "assets/environments/scanned/shrub_02/textures/shrub_02_arm_1k.jpg",
+    "sha256": "7186bf604d5c02f873aef6de2346cc06b6fa48f47d054edbef36d2c3772c0890"
+  },
+  {
+    "asset": "shrub_02",
+    "source": "https://polyhaven.com/a/shrub_02",
+    "author": {
+      "Rico Cilliers": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/shrub_02/shrub_02_nor_gl_1k.jpg",
+    "file": "assets/environments/scanned/shrub_02/textures/shrub_02_nor_gl_1k.jpg",
+    "sha256": "54c24e433365d5410223b7ebd2b33042b80831f80976e10768114db5ef6911d7"
+  },
+  {
+    "asset": "shrub_02",
+    "source": "https://polyhaven.com/a/shrub_02",
+    "author": {
+      "Rico Cilliers": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/shrub_02/shrub_02.bin",
+    "file": "assets/environments/scanned/shrub_02/shrub_02.bin",
+    "sha256": "5c1b79da1cfdbac90599542ccd1f75ba433a3a4d356b1ea03655adb39b0e2c96"
+  },
+  {
+    "asset": "shrub_02",
+    "source": "https://polyhaven.com/a/shrub_02",
+    "author": {
+      "Rico Cilliers": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/shrub_02/shrub_02_diff_1k.jpg",
+    "file": "assets/environments/scanned/shrub_02/textures/shrub_02_diff_1k.jpg",
+    "sha256": "9956eff294034d70516d867e9668428a23d782feb3d4c34061dce5e44bacd5a8"
+  },
+  {
+    "asset": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "author": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/grass_medium_01/grass_medium_01_1k.gltf",
+    "file": "assets/environments/scanned/grass_medium_01/grass_medium_01.gltf",
+    "sha256": "3e5e2a314c94e16de54fd7c28e41709731fbd2b1613ab539f1544f622ddb6a85"
+  },
+  {
+    "asset": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "author": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_nor_gl_1k.jpg",
+    "file": "assets/environments/scanned/grass_medium_01/textures/grass_medium_01_nor_gl_1k.jpg",
+    "sha256": "cae298d3d1d7ff7c7e210ad8ac772b96706e356f9315a6b04fde373ce01ccf1e"
+  },
+  {
+    "asset": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "author": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_diff_1k.jpg",
+    "file": "assets/environments/scanned/grass_medium_01/textures/grass_medium_01_diff_1k.jpg",
+    "sha256": "71495bd6a11fddcab0aaff38246fea1a7b802a705483f1c7cbca53955daa8050"
+  },
+  {
+    "asset": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "author": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_medium_01/grass_medium_01_arm_1k.jpg",
+    "file": "assets/environments/scanned/grass_medium_01/textures/grass_medium_01_arm_1k.jpg",
+    "sha256": "9a3a30f72bc02f4398967c5b08f2d20cce30bd423a2613b42a727034296fa3ae"
+  },
+  {
+    "asset": "grass_medium_01",
+    "source": "https://polyhaven.com/a/grass_medium_01",
+    "author": {
+      "Rob Tuytel": "Photography",
+      "Rico Cilliers": "Modeling"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/grass_medium_01/grass_medium_01.bin",
+    "file": "assets/environments/scanned/grass_medium_01/grass_medium_01.bin",
+    "sha256": "f4587cabdb96a2e96d8be644923dc954a248edfaaa717a0ff224cacb898bee1f"
+  },
+  {
+    "asset": "ceramic_pot",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "author": {
+      "Aron Łyczek": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceramic_pot/ceramic_pot_1k.gltf",
+    "file": "assets/environments/scanned/ceramic_pot/ceramic_pot.gltf",
+    "sha256": "7d8c28f171f701a422341c82322d439ea5041a6edd4443a85e3c8f88ce12ab0e"
+  },
+  {
+    "asset": "ceramic_pot",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "author": {
+      "Aron Łyczek": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_nor_gl_1k.jpg",
+    "file": "assets/environments/scanned/ceramic_pot/textures/ceramic_pot_nor_gl_1k.jpg",
+    "sha256": "2102b4345882c9648de7ee3b3e547bf7a2a3c9fd35db0ded322df60df16a5c57"
+  },
+  {
+    "asset": "ceramic_pot",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "author": {
+      "Aron Łyczek": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_diff_1k.jpg",
+    "file": "assets/environments/scanned/ceramic_pot/textures/ceramic_pot_diff_1k.jpg",
+    "sha256": "583e49e8be2ba460700f2dcd6466ab347f5285ccc651dd9054b59ef6a78d812b"
+  },
+  {
+    "asset": "ceramic_pot",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "author": {
+      "Aron Łyczek": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceramic_pot/ceramic_pot_arm_1k.jpg",
+    "file": "assets/environments/scanned/ceramic_pot/textures/ceramic_pot_arm_1k.jpg",
+    "sha256": "b688549e4defe29de262ccba81278360cd2f42037a40b70f8f4693a96c14bc45"
+  },
+  {
+    "asset": "ceramic_pot",
+    "source": "https://polyhaven.com/a/ceramic_pot",
+    "author": {
+      "Aron Łyczek": "All"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ceramic_pot/ceramic_pot.bin",
+    "file": "assets/environments/scanned/ceramic_pot/ceramic_pot.bin",
+    "sha256": "f47636aa57f9a258c0ae6874763b9fe5dc87943ea932367e9d5526cdf914ff04"
+  },
+  {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "author": {
+      "Greg Zaal": "Original",
+      "Jarod Guest": "Sky edits"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kloofendal_48d_partly_cloudy_puresky_1k.hdr",
+    "file": "assets/environments/sky/kloofendal_48d_partly_cloudy_puresky_1k.hdr",
+    "sha256": "fd94c84997b8a3c353b62c2125a9b44e19509956986a126e472684432a02d798"
+  },
+  {
+    "asset": "kloofendal_48d_partly_cloudy_puresky",
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "author": {
+      "Greg Zaal": "Original",
+      "Jarod Guest": "Sky edits"
+    },
+    "license": "CC0-1.0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "file": "assets/environments/sky/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198"
+  }
+]

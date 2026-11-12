@@ -1,0 +1,107 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 Core Profile Context 23.10.18.23.240422 - Compatibility - Using Device: ATI Technologies Inc. - AMD Radeon 550X
+
+PASS: Main menu starts
+PASS: Complete UI keys: ht
+PASS: All UI strings populated: ht
+PASS: Mission 02 question contract: ht
+PASS: Menu fits 720px layout: ht
+PASS: Settings fit 720px layout: ht
+PASS: Complete UI keys: fr
+PASS: All UI strings populated: fr
+PASS: Mission 02 question contract: fr
+PASS: Menu fits 720px layout: fr
+PASS: Settings fit 720px layout: fr
+PASS: Complete UI keys: en
+PASS: All UI strings populated: en
+PASS: Mission 02 question contract: en
+PASS: Menu fits 720px layout: en
+PASS: Settings fit 720px layout: en
+PASS: Complete UI keys: es
+PASS: All UI strings populated: es
+PASS: Mission 02 question contract: es
+PASS: Menu fits 720px layout: es
+PASS: Settings fit 720px layout: es
+PASS: Player settles on terrain
+PASS: W moves forward with camera-relative physics
+PASS: Movement decelerates to rest
+PASS: Shift reaches running speed
+PASS: Space jumps
+PASS: Gravity returns player to ground
+PASS: Mouse rotates camera rig
+PASS: Pause freezes movement
+PASS: Approach detects soldier
+PASS: Low preset includes contact shadows
+PASS: Player model has a skinned skeleton
+PASS: Skeleton has the expected body, hand and foot bones
+PASS: Body, hair and clothing meshes are skinned to the skeleton
+PASS: Idle, walk, run and jump clips are imported
+PASS: Locomotion clips loop and the jump does not
+PASS: AnimationTree drives the player model
+PASS: Standing head bone height matches a ~1.75 m human
+PASS: Idle feet rest on the ground plane
+PASS: Adapter reports the run state at running speed
+PASS: Running animation swings the legs
+PASS: Animations are in place: no doubled root motion
+PASS: Running feet stay above the ground plane
+PASS: Adapter returns to idle at rest
+PASS: Jump clip lifts the feet while airborne
+PASS: Each soldier has a rigged model playing the guard clip with equipment
+PASS: The three soldiers use three distinct models
+PASS: Guard acknowledges a nearby observer with a limited head turn
+PASS: Guard returns to neutral when the observer goes behind him
+PASS: Attention changes the rendered head bone pose
+PASS: Ten ambient residents leave exactly three mission interactables
+PASS: Ambient walker travels along his camp route
+PASS: Ambient walker plays the walk cycle while travelling
+PASS: Residents use eight models of their own, none shared with the player or mission soldiers
+PASS: Conversation groups play the talk clip
+PASS: Ambient travel pauses with the game
+PASS: Ambient walker yields near the player
+PASS: Interaction opens dialogue and advances quest
+PASS: Dialogue opens quiz
+PASS: Wrong answer allows retry without reward
+PASS: Correct answer completes mission and awards XP
+PASS: Repeated answer cannot farm XP
+PASS: Phase 1 does not complete biblical chapter
+PASS: Completion screen opens
+PASS: Save round trip preserves reward
+PASS: Continue restores mission and unlocks Mission 02
+PASS: Schema 1 migration preserves completed Mission 01
+PASS: Invalid legacy save cannot migrate
+PASS: Veteran cannot skip lookout prerequisite
+PASS: Walkable route to (3.0, 4.3)
+PASS: Walkable route to (3.0, -4.0)
+PASS: Walkable route to (8.0, -10.8)
+PASS: Lookout reachable through terrain
+PASS: E opens lookout dialogue
+PASS: Abandoned conversation does not satisfy objective
+PASS: Finished lookout dialogue unlocks veteran
+PASS: Mid-mission checkpoint survives reload
+PASS: Settings selector redraws language immediately
+PASS: Language choice persists
+PASS: Language change preserves mission state
+PASS: Walkable route to (3.0, -4.0)
+PASS: Walkable route to (-12.0, -6.7)
+PASS: Veteran reachable through camp
+PASS: Veteran unlocks Mission 02 quiz
+PASS: Mission 02 quiz fits: ht
+PASS: Mission 02 quiz fits: fr
+PASS: Mission 02 quiz fits: en
+PASS: Mission 02 quiz fits: es
+PASS: Mission 02 wrong answer has no reward
+PASS: Mission 02 complete with 60 total XP
+PASS: Mission 02 cannot award duplicate XP
+PASS: Completed missions reload without finishing biblical chapter
+PASS: Terrain collider matches visible surface at (28.0, 12.0)
+PASS: Terrain collider matches visible surface at (20.0, 12.0)
+PASS: Terrain collider matches visible surface at (-30.0, -20.0)
+PASS: Reject out-of-bounds save
+PASS: Reject inconsistent XP
+PASS: Reject unsupported schema
+PASS: Reject missing fields and malformed data
+PASS: Corrupt JSON handled gracefully
+PASS: Settings returns to pause
+PASS: Spring arm retracts against scenery
+PASS: Playable boundary blocks movement
+INTEGRATION RESULT: 0 failures

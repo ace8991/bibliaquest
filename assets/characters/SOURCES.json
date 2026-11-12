@@ -1,0 +1,149 @@
+{
+ "note": "Provenance of everything inside assets/characters. No runtime network access; the listed tools are used only at build time and are not shipped with the game.",
+ "generated_by": "art_source/characters/build_characters.py (Blender 5.0.1 + MPFB 2.0.18)",
+ "retrieved": "2026-11-11",
+ "tools": [
+  {
+   "name": "MPFB 2 (MakeHuman Plugin For Blender)",
+   "version": "2.0.18, master branch source archive, repository head 6ff1eb358f6c1959ced77e79e6dd2406d9a71f49",
+   "url": "https://github.com/makehumancommunity/mpfb2",
+   "authors": "MakeHuman Team / Joel Palmius and contributors",
+   "code_license": "GPL-3.0-or-later (tool only, not distributed with the game)",
+   "output_license": "MPFB LICENSE.md section D: the team makes no claim over exported output; bundled assets are CC0-1.0",
+   "archive_sha256": "BC841CC8641FCDFB6FFE94BB56EE47734B8F5A4749EE4C4DB3C83ECDDE98097F"
+  },
+  {
+   "name": "Blender",
+   "version": "5.0.1",
+   "url": "https://www.blender.org",
+   "code_license": "GPL (tool only, not distributed with the game)"
+  }
+ ],
+ "third_party_assets": [
+  {
+   "name": "MakeHuman base mesh (hm08), modelling targets, helper geometry and game_engine rig with weights",
+   "source": "Bundled with MPFB 2: src/mpfb/data/3dobjs, targets, rigs/standard/rig.game_engine.json, weights.game_engine.json",
+   "url": "https://github.com/makehumancommunity/mpfb2/blob/master/LICENSE.md",
+   "authors": "MakeHuman Team (www.makehumancommunity.org)",
+   "license": "CC0-1.0",
+   "used_for": "Body, face, hands and feet of all four characters; skeleton (53 bones) and skin weights",
+   "modifications": "Per-character macro and detail targets, uniform scale to the wanted height, helper and joint geometry removed, skin hidden under the tunic deleted, raised 13 mm onto the sandal soles"
+  },
+  {
+   "name": "makehuman_system_assets (asset pack)",
+   "url": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+   "download": "https://files2.makehumancommunity.org/asset_packs/makehuman_system_assets/makehuman_system_assets_cc0.zip",
+   "authors": "Data Collection AB, Joel Palmius, Jonas Hauquier (copyright holders named in every asset file at the 2020 CC0 release)",
+   "license": "CC0-1.0, stated in each used .mhclo/.mhmat header and in packs/makehuman_system_assets.json",
+   "archive_bytes": 280737770,
+   "archive_sha256": "B542127A8E25547C7C29C19F2D1D2ADB9A664C80396ECD694095DBC8028A0107",
+   "files_used": [
+    {"file": "skins/young_asian_male, skins/middleage_asian_male, skins/old_asian_male (diffuse PNG, re-tinted, 1K)", "character": "residents: youth, cook, elder", "added": "2026-11-12"},
+    {"file": "hair/afro01 (mesh + afro_diffuse.png, recoloured, 512 px)", "character": "resident: porter", "added": "2026-11-12"},
+    {"file": "eyebrows 002, 004, 005, 007, 008, 009, 011, 012 (mesh + texture, recoloured)", "character": "residents", "added": "2026-11-12"},
+    {
+     "file": "skins/young_caucasian_male/young_lightskinned_male_diffuse.png",
+     "sha256_prefix": "862A26E335E958B7",
+     "character": "observer"
+    },
+    {
+     "file": "skins/middleage_caucasian_male/middleage_lightskinned_male_diffuse.png",
+     "sha256_prefix": "3F94F3F6A5CAB92D",
+     "character": "soldier_intro"
+    },
+    {
+     "file": "skins/young_caucasian_male2/young_lightskinned_male_diffuse2.png",
+     "sha256_prefix": "03EFE1F6B0AE5242",
+     "character": "watchman"
+    },
+    {
+     "file": "skins/old_caucasian_male/old_lightskinned_male_diffuse.png",
+     "sha256_prefix": "DFB2310ED3E0AD02",
+     "character": "veteran"
+    },
+    {
+     "file": "eyes/low-poly/low-poly.mhclo + low-poly.obj",
+     "sha256_prefix": "68582E28E9176CBA / 783FE1E6331162C8",
+     "character": "all"
+    },
+    {
+     "file": "eyes/materials/brown_eye.png",
+     "sha256_prefix": "4659691C7295AD62",
+     "character": "observer, soldier_intro, watchman"
+    },
+    {
+     "file": "eyes/materials/brownlight_eye.png",
+     "sha256_prefix": "3F43A4DE70E44618",
+     "character": "veteran"
+    },
+    {
+     "file": "eyebrows/eyebrow006 (mesh + eyebrow006.png)",
+     "sha256_prefix": "1F6D34D722EF18E7",
+     "character": "observer"
+    },
+    {
+     "file": "eyebrows/eyebrow001 (mesh + eyebrow001.png)",
+     "sha256_prefix": "9940F7D0B1B22370",
+     "character": "soldier_intro"
+    },
+    {
+     "file": "eyebrows/eyebrow003 (mesh + eyebrow003.png)",
+     "sha256_prefix": "E98837D77247F2C1",
+     "character": "watchman"
+    },
+    {
+     "file": "eyebrows/eyebrow010 (mesh + eyebrow010.png)",
+     "sha256_prefix": "D0ACA671C7D51008",
+     "character": "veteran"
+    },
+    {
+     "file": "eyelashes/eyelashes01 (mesh + eyelashes01.png)",
+     "sha256_prefix": "4B69C0FFF2648874",
+     "character": "all"
+    },
+    {
+     "file": "hair/short02 (mesh + short02_diffuse.png)",
+     "sha256_prefix": "47FE33831A392956",
+     "character": "observer"
+    },
+    {
+     "file": "hair/short04 (mesh + short04_diffuse.png)",
+     "sha256_prefix": "0BEF7FC0E403DB5A",
+     "character": "soldier_intro"
+    },
+    {
+     "file": "hair/short01 (mesh + short01_diffuse.png)",
+     "sha256_prefix": "F34A0957184E3D1E",
+     "character": "watchman"
+    },
+    {
+     "file": "hair/short03 (mesh + short03_diffuse.png)",
+     "sha256_prefix": "FE6ED0BB14498A48",
+     "character": "veteran"
+    }
+   ],
+   "modifications": "Skins: saturation and tint towards a sun-exposed tone, added procedural pore and tone variation, painted beard and brow shading, saved as 2K JPEG. Eyes: desaturated, resized to 512. Hair and brows: recoloured (optionally greyed), resized to 1024/512; hair meshes trimmed at the hairline and under helmets."
+  },
+  {
+   "name": "weathered_planks (albedo)",
+   "url": "https://polyhaven.com/a/weathered_planks",
+   "authors": "Dario Barresi, Dimitrios Savva",
+   "license": "CC0-1.0 (already in assets/materials/SOURCES.json)",
+   "used_for": "Shield boards and spear shafts",
+   "modifications": "Resized to 512 px and tinted"
+  }
+ ],
+ "original_project_work": [
+  "Tunic, belt, sandals, layered beard shells, cap/helmet, shield and spear geometry (art_source/characters/bq_garments.py)",
+  "Idle, guard, walk, run and jump animation clips, authored by script with analytic leg IK, no motion capture (bq_anim.py)",
+  "Woven cloth, leather, bronze, beard strand and skin variation textures, generated procedurally (bq_textures.py)",
+  "Character proportions, faces and colour choices (build_characters.py)"
+ ],
+ "historical_note": "Tunics, belts, sandals, caps, round shields and spears are an artistic interpretation of an Iron Age Levantine setting, not an archaeological reconstruction.",
+ "project_polish_2026_11_12": [
+  "Fringe-only subdivision and smoothed trim boundary; existing CC0 hairstyle sources unchanged.",
+  "Original elongated beard-strand texture generator, fewer and shorter shells, darker grey strands.",
+  "Adjusted skin roughness/specular; no new external textures or licences.",
+  "Godot head-attention modifier, original project code."
+ ]
+}

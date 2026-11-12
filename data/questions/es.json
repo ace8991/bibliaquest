@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elah_stones_01",
+    "locale": "es",
+    "reference": "1 Samuel 17:40",
+    "text": "¿Cuántas piedras lisas escogió David del arroyo?",
+    "answers": [
+      "3 piedras",
+      "5 piedras",
+      "7 piedras",
+      "12 piedras"
+    ],
+    "correct": 1,
+    "explanation": "David escogió cinco piedras lisas del arroyo.",
+    "difficulty": "easy",
+    "hint": "Cuenta los dedos de una mano.",
+    "xp": 25
+  },
+  {
+    "id": "elah_challenge_02",
+    "locale": "es",
+    "reference": "1 Samuel 17:16",
+    "text": "¿Durante cuántos días presentó su desafío el filisteo?",
+    "answers": [
+      "7 días",
+      "20 días",
+      "40 días",
+      "12 días"
+    ],
+    "correct": 2,
+    "explanation": "Se presentó durante cuarenta días, por la mañana y por la tarde.",
+    "difficulty": "easy",
+    "hint": "Son cuatro veces diez.",
+    "xp": 35
+  }
+]

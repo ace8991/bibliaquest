@@ -1,0 +1,53 @@
+{
+  "soldier_intro": {
+    "speaker_key": "soldier_intro",
+    "fictional": true,
+    "lines": [
+      "Byenveni nan kan an. Lame Izrayèl la ak lame Filisten yo kanpe sou de bò vale Ela a.",
+      "Golyat ap defye lame Izrayèl la. Ou se yon temwen; se David ki pral konfwonte l.",
+      "Ann aprann yon detay nan istwa a: David te chwazi senk wòch lis nan ravin nan. Ann teste sa ou sonje."
+    ]
+  },
+  "watchman": {
+    "speaker_key": "watchman",
+    "fictional": true,
+    "lines": [
+      "Gade lòt bò ravin nan. Kan Filisten yo la. Nou menm, nou sou bò Izrayèl la.",
+      "Dapre 1 Samyèl 17:8–11, Golyat mande Izrayèl chwazi yon moun pou goumen avè l. Sayil ak sòlda yo pè anpil.",
+      "Mwen pa pral mande w goumen. Ale bò tant ble a. Sòlda ki gen eksperyans lan ka esplike w plis."
+    ]
+  },
+  "veteran": {
+    "speaker_key": "veteran",
+    "fictional": true,
+    "lines": [
+      "Se pa yon sèl defi. Dapre 1 Samyèl 17:16, Filisten an te parèt pandan karant jou, maten ak aswè.",
+      "Sa ede w konprann jan laperèz te peze sou kan an. Men istwa a poko fini; David pral vin gen yon wòl enpòtan.",
+      "Ou se temwen istwa a. Ann verifye sa ou aprann sou dire defi a."
+    ]
+  },
+  "locked": {
+    "fictional": true,
+    "lines": [
+      "Pale ak sòlda bò drapo ble a anvan."
+    ]
+  },
+  "visit_watchman": {
+    "fictional": true,
+    "lines": [
+      "Sòlda k ap veye bò drapo wouj la ap tann ou."
+    ]
+  },
+  "visit_veteran": {
+    "fictional": true,
+    "lines": [
+      "Ale bò tant ble a pou pale ak sòlda ki gen eksperyans lan."
+    ]
+  },
+  "after": {
+    "fictional": true,
+    "lines": [
+      "Ou fini de premye misyon yo. Rankont ak David la ap vini nan yon lòt etap devlopman."
+    ]
+  }
+}

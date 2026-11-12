@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elah_stones_01",
+    "locale": "ht",
+    "reference": "1 Samyèl 17:40",
+    "text": "Konbyen wòch lis David te chwazi nan ravin nan?",
+    "answers": [
+      "3 wòch",
+      "5 wòch",
+      "7 wòch",
+      "12 wòch"
+    ],
+    "correct": 1,
+    "explanation": "David te chwazi senk wòch lis nan ravin nan.",
+    "difficulty": "easy",
+    "hint": "Konte dwèt sou yon men.",
+    "xp": 25
+  },
+  {
+    "id": "elah_challenge_02",
+    "locale": "ht",
+    "reference": "1 Samyèl 17:16",
+    "text": "Pandan konbyen jou Filisten an te prezante defi li a?",
+    "answers": [
+      "7 jou",
+      "20 jou",
+      "40 jou",
+      "12 jou"
+    ],
+    "correct": 2,
+    "explanation": "Li te parèt pandan karant jou, maten ak aswè.",
+    "difficulty": "easy",
+    "hint": "Se kat fwa dis.",
+    "xp": 35
+  }
+]

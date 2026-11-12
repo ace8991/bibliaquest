@@ -1,0 +1,56 @@
+{
+  "id": "elah",
+  "stages": [
+    {
+      "id": "arrive",
+      "mission": 1,
+      "objective": "arrive",
+      "target": "soldier_intro",
+      "event": "soldier_met"
+    },
+    {
+      "id": "learn",
+      "mission": 1,
+      "objective": "learn",
+      "target": "soldier_intro",
+      "event": "quiz_passed",
+      "question": "elah_stones_01"
+    },
+    {
+      "id": "complete",
+      "mission": 1,
+      "objective": "complete_obj",
+      "target": "watchman",
+      "event": "begin_challenge"
+    },
+    {
+      "id": "challenge",
+      "mission": 2,
+      "objective": "challenge",
+      "target": "watchman",
+      "event": "watchman_heard"
+    },
+    {
+      "id": "witness",
+      "mission": 2,
+      "objective": "witness",
+      "target": "veteran",
+      "event": "veteran_heard"
+    },
+    {
+      "id": "challenge_quiz",
+      "mission": 2,
+      "objective": "challenge_quiz",
+      "target": "veteran",
+      "event": "quiz_passed",
+      "question": "elah_challenge_02"
+    },
+    {
+      "id": "chapter_pause",
+      "mission": 2,
+      "objective": "chapter_pause",
+      "target": "",
+      "event": ""
+    }
+  ]
+}

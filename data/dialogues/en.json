@@ -1,0 +1,53 @@
+{
+  "soldier_intro": {
+    "speaker_key": "soldier_intro",
+    "fictional": true,
+    "lines": [
+      "Welcome to camp. The armies of Israel and the Philistines face each other across the Valley of Elah.",
+      "Goliath challenges Israel’s army. You are a witness; David will confront him.",
+      "Here is a detail from the account: David chose five smooth stones from the stream. Let us test what you remember."
+    ]
+  },
+  "watchman": {
+    "speaker_key": "watchman",
+    "fictional": true,
+    "lines": [
+      "Look beyond the riverbed. The Philistine camp is over there; we stand on Israel’s side.",
+      "In 1 Samuel 17:8–11, Goliath demands that Israel choose a man to fight him. Saul and the soldiers are deeply afraid.",
+      "I will not ask you to fight. Go to the blue tent; the veteran can tell you more."
+    ]
+  },
+  "veteran": {
+    "speaker_key": "veteran",
+    "fictional": true,
+    "lines": [
+      "It was not a single challenge. According to 1 Samuel 17:16, the Philistine appeared for forty days, morning and evening.",
+      "That helps explain the fear hanging over the camp. But the account continues; David will have a crucial role.",
+      "You are a witness to this account. Let us check what you learned about the length of the challenge."
+    ]
+  },
+  "locked": {
+    "fictional": true,
+    "lines": [
+      "Speak to the soldier by the blue banner first."
+    ]
+  },
+  "visit_watchman": {
+    "fictional": true,
+    "lines": [
+      "The lookout by the red banner is waiting for you."
+    ]
+  },
+  "visit_veteran": {
+    "fictional": true,
+    "lines": [
+      "Visit the veteran beside the blue tent."
+    ]
+  },
+  "after": {
+    "fictional": true,
+    "lines": [
+      "You completed the first two missions. Meeting David will arrive in a later development stage."
+    ]
+  }
+}

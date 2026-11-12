@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elah_stones_01",
+    "locale": "fr",
+    "reference": "1 Samuel 17:40",
+    "text": "Combien de pierres lisses David a-t-il choisies dans le ruisseau ?",
+    "answers": [
+      "3 pierres",
+      "5 pierres",
+      "7 pierres",
+      "12 pierres"
+    ],
+    "correct": 1,
+    "explanation": "David a choisi cinq pierres lisses dans le ruisseau.",
+    "difficulty": "easy",
+    "hint": "Comptez les doigts d’une main.",
+    "xp": 25
+  },
+  {
+    "id": "elah_challenge_02",
+    "locale": "fr",
+    "reference": "1 Samuel 17:16",
+    "text": "Pendant combien de jours le Philistin a-t-il lancé son défi ?",
+    "answers": [
+      "7 jours",
+      "20 jours",
+      "40 jours",
+      "12 jours"
+    ],
+    "correct": 2,
+    "explanation": "Il s’est présenté pendant quarante jours, matin et soir.",
+    "difficulty": "easy",
+    "hint": "C’est quatre fois dix.",
+    "xp": 35
+  }
+]

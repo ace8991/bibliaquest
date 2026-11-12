@@ -1,0 +1,1332 @@
+{
+ "armorer": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.017,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0015
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0111,
+     "max_reach_clamp_m": 0.0043,
+     "max_stance_slip_per_frame_m": 0.0064
+    },
+    "period": 1.0,
+    "speed": 1.3949,
+    "stride": 1.3949
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 3788148,
+  "glb_color_factors": {
+   "cloth": [
+    0.107,
+    0.089,
+    0.073,
+    1
+   ],
+   "trim": [
+    0.263,
+    0.147,
+    0.051,
+    1
+   ]
+  },
+  "glb_images": 9,
+  "glb_materials": {
+   "beard_0": "MASK 0.38",
+   "beard_1": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.709,
+  "role": "resident",
+  "triangles": {
+   "beard": 1448,
+   "belt": 272,
+   "body": 23464,
+   "brows": 192,
+   "eyes": 172,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 29168,
+   "tunic": 2656
+  },
+  "tunic_color": [
+   0.36,
+   0.33,
+   0.3
+  ]
+ },
+ "cook": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0167,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0015
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0108,
+     "max_reach_clamp_m": 0.0031,
+     "max_stance_slip_per_frame_m": 0.0049
+    },
+    "period": 1.0,
+    "speed": 1.3497,
+    "stride": 1.3497
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 3524452,
+  "glb_color_factors": {
+   "cloth": [
+    0.187,
+    0.119,
+    0.068,
+    1
+   ],
+   "trim": [
+    0.319,
+    0.214,
+    0.1,
+    1
+   ]
+  },
+  "glb_images": 9,
+  "glb_materials": {
+   "beard_0": "MASK 0.38",
+   "beard_1": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.669,
+  "role": "resident",
+  "triangles": {
+   "beard": 1448,
+   "belt": 272,
+   "body": 23138,
+   "brows": 192,
+   "eyes": 172,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 29002,
+   "tunic": 2816
+  },
+  "tunic_color": [
+   0.47,
+   0.38,
+   0.29
+  ]
+ },
+ "elder": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0164,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0014
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0106,
+     "max_reach_clamp_m": 0.0031,
+     "max_stance_slip_per_frame_m": 0.0064
+    },
+    "period": 1.0,
+    "speed": 1.3396,
+    "stride": 1.3396
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 4067360,
+  "glb_color_factors": {
+   "cloth": [
+    0.507,
+    0.448,
+    0.319,
+    1
+   ],
+   "trim": [
+    0.1,
+    0.064,
+    0.133,
+    1
+   ]
+  },
+  "glb_images": 10,
+  "glb_materials": {
+   "beard_0": "MASK 0.31",
+   "beard_1": "MASK 0.45",
+   "beard_2": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.658,
+  "role": "resident",
+  "triangles": {
+   "beard": 2172,
+   "belt": 272,
+   "body": 22712,
+   "brows": 192,
+   "eyes": 172,
+   "hair": 4219,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 33731,
+   "tunic": 3028
+  },
+  "tunic_color": [
+   0.74,
+   0.7,
+   0.6
+  ]
+ },
+ "herdsman": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0174,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0015
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0113,
+     "max_reach_clamp_m": 0.0071,
+     "max_stance_slip_per_frame_m": 0.0079
+    },
+    "period": 1.0,
+    "speed": 1.4281,
+    "stride": 1.4281
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 3898332,
+  "glb_color_factors": {
+   "cloth": [
+    0.233,
+    0.179,
+    0.119,
+    1
+   ],
+   "trim": [
+    0.147,
+    0.059,
+    0.027,
+    1
+   ]
+  },
+  "glb_images": 10,
+  "glb_materials": {
+   "beard_0": "MASK 0.31",
+   "beard_1": "MASK 0.45",
+   "beard_2": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.75,
+  "role": "resident",
+  "triangles": {
+   "beard": 2172,
+   "belt": 272,
+   "body": 22960,
+   "brows": 192,
+   "eyes": 172,
+   "hair": 4092,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 33724,
+   "tunic": 2900
+  },
+  "tunic_color": [
+   0.52,
+   0.46,
+   0.38
+  ]
+ },
+ "observer": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0173,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0016
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0112,
+     "max_reach_clamp_m": 0.0069,
+     "max_stance_slip_per_frame_m": 0.0079
+    },
+    "period": 1.0,
+    "speed": 1.4153,
+    "stride": 1.4153
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump"
+  ],
+  "glb_bytes": 4530896,
+  "glb_color_factors": {
+   "cloth": [
+    0.521,
+    0.387,
+    0.194,
+    1
+   ],
+   "trim": [
+    0.107,
+    0.043,
+    0.025,
+    1
+   ]
+  },
+  "glb_images": 10,
+  "glb_materials": {
+   "beard_0": "MASK 0.38",
+   "beard_1": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.74,
+  "role": "player",
+  "triangles": {
+   "beard": 1492,
+   "belt": 272,
+   "body": 23136,
+   "brows": 192,
+   "eyes": 172,
+   "hair": 5767,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 34819,
+   "tunic": 2824
+  },
+  "tunic_color": [
+   0.749,
+   0.655,
+   0.478
+  ]
+ },
+ "porter": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0169,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0018
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.011,
+     "max_reach_clamp_m": 0.0043,
+     "max_stance_slip_per_frame_m": 0.0067
+    },
+    "period": 1.0,
+    "speed": 1.3797,
+    "stride": 1.3797
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 3960768,
+  "glb_color_factors": {
+   "cloth": [
+    0.393,
+    0.319,
+    0.187,
+    1
+   ],
+   "trim": [
+    0.133,
+    0.073,
+    0.04,
+    1
+   ]
+  },
+  "glb_images": 9,
+  "glb_materials": {
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.699,
+  "role": "resident",
+  "triangles": {
+   "belt": 272,
+   "body": 23520,
+   "brows": 192,
+   "eyes": 172,
+   "hair": 3196,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 30952,
+   "tunic": 2636
+  },
+  "tunic_color": [
+   0.66,
+   0.6,
+   0.47
+  ]
+ },
+ "sentry": {
+  "bones": 53,
+  "clips": {
+   "guard-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0179,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0018
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0116,
+     "max_reach_clamp_m": 0.0096,
+     "max_stance_slip_per_frame_m": 0.0082
+    },
+    "period": 1.0,
+    "speed": 1.5007,
+    "stride": 1.5007
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "guard-loop"
+  ],
+  "glb_bytes": 3797028,
+  "glb_color_factors": {
+   "cloth": [
+    0.243,
+    0.147,
+    0.089,
+    1
+   ],
+   "gear_leather": [
+    0.448,
+    0.38,
+    0.319,
+    1
+   ],
+   "gear_wood": [
+    0.604,
+    0.448,
+    0.296,
+    1
+   ],
+   "helmet_band": [
+    0.263,
+    0.214,
+    0.171,
+    1
+   ],
+   "helmet_leather": [
+    0.692,
+    0.604,
+    0.523,
+    1
+   ],
+   "trim": [
+    0.051,
+    0.073,
+    0.073,
+    1
+   ]
+  },
+  "glb_images": 12,
+  "glb_materials": {
+   "beard_0": "MASK 0.31",
+   "beard_1": "MASK 0.45",
+   "beard_2": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "gear_bronze": "OPAQUE",
+   "gear_leather": "OPAQUE",
+   "gear_wood": "OPAQUE",
+   "hair": "MASK 0.35",
+   "helmet_band": "OPAQUE",
+   "helmet_leather": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.829,
+  "role": "resident guard",
+  "triangles": {
+   "beard": 2172,
+   "belt": 272,
+   "body": 23358,
+   "brows": 192,
+   "eyes": 172,
+   "gear": 896,
+   "hair": 68,
+   "helmet": 768,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 31554,
+   "tunic": 2692
+  },
+  "tunic_color": [
+   0.53,
+   0.42,
+   0.33
+  ]
+ },
+ "soldier_intro": {
+  "bones": 53,
+  "clips": {
+   "guard-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0178,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0016
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0116,
+     "max_reach_clamp_m": 0.0095,
+     "max_stance_slip_per_frame_m": 0.0082
+    },
+    "period": 1.0,
+    "speed": 1.4823,
+    "stride": 1.4823
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "guard-loop"
+  ],
+  "glb_bytes": 4995728,
+  "glb_color_factors": {
+   "cloth": [
+    0.223,
+    0.168,
+    0.076,
+    1
+   ],
+   "gear_leather": [
+    0.448,
+    0.38,
+    0.319,
+    1
+   ],
+   "gear_wood": [
+    0.604,
+    0.448,
+    0.296,
+    1
+   ],
+   "helmet_band": [
+    0.604,
+    0.57,
+    0.448,
+    1
+   ],
+   "trim": [
+    0.043,
+    0.055,
+    0.089,
+    1
+   ]
+  },
+  "glb_images": 13,
+  "glb_materials": {
+   "beard_0": "MASK 0.31",
+   "beard_1": "MASK 0.45",
+   "beard_2": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "gear_bronze": "OPAQUE",
+   "gear_leather": "OPAQUE",
+   "gear_wood": "OPAQUE",
+   "hair": "MASK 0.35",
+   "helmet_band": "OPAQUE",
+   "helmet_bronze": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.799,
+  "role": "camp soldier",
+  "triangles": {
+   "beard": 2238,
+   "belt": 272,
+   "body": 23362,
+   "brows": 192,
+   "eyes": 172,
+   "gear": 896,
+   "hair": 178,
+   "helmet": 768,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 31746,
+   "tunic": 2704
+  },
+  "tunic_color": [
+   0.51,
+   0.447,
+   0.306
+  ]
+ },
+ "spearman": {
+  "bones": 53,
+  "clips": {
+   "guard-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0176,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0017
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0114,
+     "max_reach_clamp_m": 0.0089,
+     "max_stance_slip_per_frame_m": 0.0082
+    },
+    "period": 1.0,
+    "speed": 1.4512,
+    "stride": 1.4512
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "guard-loop"
+  ],
+  "glb_bytes": 3798092,
+  "glb_color_factors": {
+   "cloth": [
+    0.163,
+    0.14,
+    0.073,
+    1
+   ],
+   "gear_leather": [
+    0.448,
+    0.38,
+    0.319,
+    1
+   ],
+   "gear_wood": [
+    0.604,
+    0.448,
+    0.296,
+    1
+   ],
+   "helmet_band": [
+    0.604,
+    0.57,
+    0.448,
+    1
+   ],
+   "trim": [
+    0.263,
+    0.1,
+    0.051,
+    1
+   ]
+  },
+  "glb_images": 13,
+  "glb_materials": {
+   "beard_0": "MASK 0.38",
+   "beard_1": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "gear_bronze": "OPAQUE",
+   "gear_leather": "OPAQUE",
+   "gear_wood": "OPAQUE",
+   "hair": "MASK 0.35",
+   "helmet_band": "OPAQUE",
+   "helmet_bronze": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.77,
+  "role": "resident guard",
+  "triangles": {
+   "beard": 1448,
+   "belt": 272,
+   "body": 23322,
+   "brows": 192,
+   "eyes": 172,
+   "gear": 896,
+   "hair": 490,
+   "helmet": 768,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 31220,
+   "tunic": 2696
+  },
+  "tunic_color": [
+   0.44,
+   0.41,
+   0.3
+  ]
+ },
+ "veteran": {
+  "bones": 53,
+  "clips": {
+   "guard-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.017,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0015
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.011,
+     "max_reach_clamp_m": 0.0031,
+     "max_stance_slip_per_frame_m": 0.0065
+    },
+    "period": 1.0,
+    "speed": 1.3955,
+    "stride": 1.3955
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "guard-loop"
+  ],
+  "glb_bytes": 5507656,
+  "glb_color_factors": {
+   "cloth": [
+    0.085,
+    0.147,
+    0.178,
+    1
+   ],
+   "gear_leather": [
+    0.448,
+    0.38,
+    0.319,
+    1
+   ],
+   "gear_wood": [
+    0.604,
+    0.448,
+    0.296,
+    1
+   ],
+   "trim": [
+    0.342,
+    0.263,
+    0.133,
+    1
+   ]
+  },
+  "glb_images": 12,
+  "glb_materials": {
+   "beard_0": "MASK 0.31",
+   "beard_1": "MASK 0.45",
+   "beard_2": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "gear_bronze": "OPAQUE",
+   "gear_leather": "OPAQUE",
+   "gear_wood": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.719,
+  "role": "veteran",
+  "triangles": {
+   "beard": 2238,
+   "belt": 272,
+   "body": 23198,
+   "brows": 192,
+   "eyes": 172,
+   "gear": 896,
+   "hair": 4276,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 34960,
+   "tunic": 2752
+  },
+  "tunic_color": [
+   0.322,
+   0.42,
+   0.459
+  ]
+ },
+ "watchman": {
+  "bones": 53,
+  "clips": {
+   "guard-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0176,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0017
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0115,
+     "max_reach_clamp_m": 0.0088,
+     "max_stance_slip_per_frame_m": 0.0082
+    },
+    "period": 1.0,
+    "speed": 1.4573,
+    "stride": 1.4573
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "guard-loop"
+  ],
+  "glb_bytes": 5175548,
+  "glb_color_factors": {
+   "cloth": [
+    0.288,
+    0.11,
+    0.072,
+    1
+   ],
+   "gear_leather": [
+    0.448,
+    0.38,
+    0.319,
+    1
+   ],
+   "gear_wood": [
+    0.604,
+    0.448,
+    0.296,
+    1
+   ],
+   "helmet_band": [
+    0.263,
+    0.214,
+    0.171,
+    1
+   ],
+   "helmet_leather": [
+    0.692,
+    0.604,
+    0.523,
+    1
+   ],
+   "trim": [
+    0.342,
+    0.233,
+    0.107,
+    1
+   ]
+  },
+  "glb_images": 12,
+  "glb_materials": {
+   "beard_0": "MASK 0.38",
+   "beard_1": "MASK 0.60",
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "gear_bronze": "OPAQUE",
+   "gear_leather": "OPAQUE",
+   "gear_wood": "OPAQUE",
+   "hair": "MASK 0.35",
+   "helmet_band": "OPAQUE",
+   "helmet_leather": "OPAQUE",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.779,
+  "role": "lookout",
+  "triangles": {
+   "beard": 1492,
+   "belt": 272,
+   "body": 23328,
+   "brows": 192,
+   "eyes": 172,
+   "gear": 896,
+   "hair": 132,
+   "helmet": 768,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 30904,
+   "tunic": 2688
+  },
+  "tunic_color": [
+   0.573,
+   0.365,
+   0.298
+  ]
+ },
+ "youth": {
+  "bones": 53,
+  "clips": {
+   "idle-loop": {
+    "fps": 30,
+    "frames": 150
+   },
+   "jump": {
+    "fps": 30,
+    "frames": 18
+   },
+   "run-loop": {
+    "fps": 30,
+    "frames": 30
+   },
+   "talk-loop": {
+    "fps": 30,
+    "frames": 180
+   },
+   "walk-loop": {
+    "fps": 30,
+    "frames": 30
+   }
+  },
+  "gaits": {
+   "run": {
+    "checks": {
+     "lowest_point_m": -0.0161,
+     "max_reach_clamp_m": 0.0,
+     "max_stance_slip_per_frame_m": 0.0016
+    },
+    "period": 0.64,
+    "speed": 6.0,
+    "stride": 3.84
+   },
+   "walk": {
+    "checks": {
+     "lowest_point_m": -0.0104,
+     "max_reach_clamp_m": 0.0001,
+     "max_stance_slip_per_frame_m": 0.005
+    },
+    "period": 1.0,
+    "speed": 1.2862,
+    "stride": 1.2862
+   }
+  },
+  "glb_animations": [
+   "idle-loop",
+   "walk-loop",
+   "run-loop",
+   "jump",
+   "talk-loop"
+  ],
+  "glb_bytes": 4004628,
+  "glb_color_factors": {
+   "cloth": [
+    0.434,
+    0.342,
+    0.233,
+    1
+   ],
+   "trim": [
+    0.073,
+    0.119,
+    0.073,
+    1
+   ]
+  },
+  "glb_images": 9,
+  "glb_materials": {
+   "brows": "BLEND",
+   "cloth": "OPAQUE",
+   "eyes": "OPAQUE",
+   "hair": "MASK 0.35",
+   "lashes": "BLEND",
+   "leather": "OPAQUE",
+   "skin": "OPAQUE",
+   "trim": "OPAQUE"
+  },
+  "height_m": 1.599,
+  "role": "resident",
+  "triangles": {
+   "belt": 272,
+   "body": 23526,
+   "brows": 192,
+   "eyes": 172,
+   "hair": 5160,
+   "lashes": 368,
+   "sandals": 596,
+   "total": 32854,
+   "tunic": 2568
+  },
+  "tunic_color": [
+   0.69,
+   0.62,
+   0.52
+  ]
+ }
+}

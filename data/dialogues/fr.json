@@ -1,0 +1,53 @@
+{
+  "soldier_intro": {
+    "speaker_key": "soldier_intro",
+    "fictional": true,
+    "lines": [
+      "Bienvenue au camp. Les armées d’Israël et des Philistins se font face dans la vallée d’Éla.",
+      "Goliath défie l’armée d’Israël. Vous êtes un témoin ; c’est David qui l’affrontera.",
+      "Voici un détail du récit : David a choisi cinq pierres lisses dans le ruisseau. Voyons ce que vous retenez."
+    ]
+  },
+  "watchman": {
+    "speaker_key": "watchman",
+    "fictional": true,
+    "lines": [
+      "Regardez au-delà du ravin. Le camp philistin est là-bas ; nous sommes du côté d’Israël.",
+      "Selon 1 Samuel 17:8–11, Goliath demande à Israël de choisir un homme pour le combattre. Saül et les soldats ont très peur.",
+      "Je ne vous demanderai pas de combattre. Allez à la tente bleue ; le soldat expérimenté vous en dira plus."
+    ]
+  },
+  "veteran": {
+    "speaker_key": "veteran",
+    "fictional": true,
+    "lines": [
+      "Ce n’est pas un seul défi. Selon 1 Samuel 17:16, le Philistin s’est présenté pendant quarante jours, matin et soir.",
+      "Cela vous aide à comprendre la peur qui pesait sur le camp. Mais le récit continue ; David jouera un rôle essentiel.",
+      "Vous êtes un témoin de ce récit. Vérifions ce que vous avez appris sur la durée du défi."
+    ]
+  },
+  "locked": {
+    "fictional": true,
+    "lines": [
+      "Parlez d’abord au soldat près du drapeau bleu."
+    ]
+  },
+  "visit_watchman": {
+    "fictional": true,
+    "lines": [
+      "La sentinelle au drapeau rouge vous attend."
+    ]
+  },
+  "visit_veteran": {
+    "fictional": true,
+    "lines": [
+      "Allez à la tente bleue pour parler au soldat expérimenté."
+    ]
+  },
+  "after": {
+    "fictional": true,
+    "lines": [
+      "Vous avez terminé les deux premières missions. La rencontre avec David viendra dans une prochaine étape."
+    ]
+  }
+}

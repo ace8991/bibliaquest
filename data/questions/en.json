@@ -1,0 +1,36 @@
+[
+  {
+    "id": "elah_stones_01",
+    "locale": "en",
+    "reference": "1 Samuel 17:40",
+    "text": "How many smooth stones did David choose from the stream?",
+    "answers": [
+      "3 stones",
+      "5 stones",
+      "7 stones",
+      "12 stones"
+    ],
+    "correct": 1,
+    "explanation": "David chose five smooth stones from the stream.",
+    "difficulty": "easy",
+    "hint": "Count the fingers on one hand.",
+    "xp": 25
+  },
+  {
+    "id": "elah_challenge_02",
+    "locale": "en",
+    "reference": "1 Samuel 17:16",
+    "text": "For how many days did the Philistine present his challenge?",
+    "answers": [
+      "7 days",
+      "20 days",
+      "40 days",
+      "12 days"
+    ],
+    "correct": 2,
+    "explanation": "He appeared for forty days, morning and evening.",
+    "difficulty": "easy",
+    "hint": "It is four times ten.",
+    "xp": 35
+  }
+]
