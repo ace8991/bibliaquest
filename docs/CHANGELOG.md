@@ -40,3 +40,12 @@ Rebuilt the four existing characters with refined hairlines and finer beard stra
 ## Camp population pass
 
 Finished the ambient camp population that Codex had started. Fixed the parse error in tests/integration.gd, replaced the cloned mission models with eight new resident models (porter, cook, elder, spearman, sentry, youth, herdsman, armorer), added a hand-authored `talk` clip and conversation pairs, a `resting_clip` option in character_visual.gd / geometry.person, a `faces` and `activity` field in data/camp_population.json, shadow and animation savings for distant residents, resident frames and measurements in tests/art_review.gd, and six further integration checks (102 headless / 103 graphical, zero failures). Missions, the three mission soldiers, languages, save format and renderer are unchanged. Residents have no dialogue and are not saved.
+
+## HUD pass: mini-map and mission tracker
+
+- New scripts/ui/minimap.gd: circular mini-map in the top-right corner. It rotates with the camera and keeps the player arrow in the centre; the background is baked at start-up from the terrain height function (relief, dry riverbed, paths, tents). White dots are the three mission soldiers, small dots the camp residents, a pulsing gold diamond the current objective (held on the rim with a pointer when out of range), "N" marks north. The distance to the objective is written under the map.
+- scripts/ui/interface.gd: the plain text HUD became a mission tracker panel (chapter line, mission title, current objective, XP bar against the 60 XP total, knowledge count), an interaction prompt pill that only appears when an action is possible, and a short "new objective" banner when the objective changes. Menus, dialogue and quiz cards are unchanged and hide the HUD.
+- world.gd records tent positions (`tent_sites`) for the map; main.gd hands the world and player to the mini-map. New UI string `new_objective` in the four languages.
+- Seven new integration checks (109 headless / 110 graphical, zero failures). Gameplay, missions, save format and renderer unchanged.
+
+Limits: the map is a drawn schematic, not a rendered top view; residents and soldiers are dots without facing; there is no full-screen map, zoom, legend or fog of war; nothing on the HUD was reviewed by a designer or tested by players, and only 1280x720 (16:9) was captured.
