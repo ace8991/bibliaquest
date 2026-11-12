@@ -58,6 +58,13 @@ PASS: Residents use eight models of their own, none shared with the player or mi
 PASS: Conversation groups play the talk clip
 PASS: Ambient travel pauses with the game
 PASS: Ambient walker yields near the player
+PASS: Mini-map and mission tracker are shown during play
+PASS: Mini-map keeps the player in its centre
+PASS: Objective ahead of the camera is drawn above the player on the mini-map
+PASS: Mini-map rotates with the camera
+PASS: Mission tracker shows mission, objective and the 60 XP total
+PASS: Interaction prompt and objective distance are displayed
+PASS: HUD is hidden behind menus
 PASS: Interaction opens dialogue and advances quest
 PASS: Dialogue opens quiz
 PASS: Wrong answer allows retry without reward
